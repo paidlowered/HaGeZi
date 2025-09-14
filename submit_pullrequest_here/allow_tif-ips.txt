@@ -1,5 +1,9 @@
 # IPs to be removed from the tif IP list.
 
+# www.wshifen.com
+103.235.46.115
+103.235.46.102
+
 # https://github.com/hagezi/dns-blocklists/issues/7315
 34.160.144.191
 
