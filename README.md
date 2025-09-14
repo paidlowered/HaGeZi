@@ -2,7 +2,7 @@
 
 ## :zap: DNS Blocklists - For a better internet!
 
-<p align="left"><img width="25%" alt="HaGeZi DNS Blocklists" src="https://github.com/user-attachments/assets/1fb8b23c-2c45-43e2-8266-84c897ac5b3b" /></p>
+<p align="left"><img width="25%" alt="HaGeZi DNS Blocklists" src="images/HaGeZi.svg" /></p>
 
 ### Made with :heartbeat: for a safer and cleaner internet! It always seems impossible until it’s done.
 
