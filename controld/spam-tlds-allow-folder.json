@@ -4369,6 +4369,13 @@
       }
     },
     {
+      "PK": "vecchioamore.restaurant",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "vercel.fyi",
       "action": {
         "do": 1,

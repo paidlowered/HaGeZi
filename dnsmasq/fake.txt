@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Sep 2025 11:02 UTC
-# Version: 2025.0913.1102.15
+# Last modified: 14 Sep 2025 07:33 UTC
+# Version: 2025.0914.0733.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14055
+# Number of entries: 14056
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -3392,6 +3392,7 @@ local=/dressedandblessed.nl/
 local=/dressfat.com/
 local=/drezia.com/
 local=/drgillmaier.de/
+local=/drheimer.com/
 local=/drift-store.com/
 local=/drinkevolution.shop/
 local=/drinkkunst.com/
@@ -3435,6 +3436,7 @@ local=/dualtronnpower.de/
 local=/dualtronpower.shop/
 local=/duavital.com/
 local=/dubaifix.eu/
+local=/dubaihoteluae.com/
 local=/ducherower.de/
 local=/duft-blumen.de/
 local=/duftbaum.store/
@@ -3934,7 +3936,6 @@ local=/us.nl.eu.org/
 local=/officiellejordan.eu.com/
 local=/eu-class.com/
 local=/eu-first.com/
-local=/eu-meds.online/
 local=/eu-sezane.com/
 local=/eu-top-meds.com/
 local=/eu-unityfahrschule.com/
@@ -6031,6 +6032,7 @@ local=/hot-mystery-deals.xyz/
 local=/hot-shopping.com/
 local=/hotchillies.shop/
 local=/hotel-brand-promotion.com/
+local=/hotel-ds.com/
 local=/hotel-marketing-advertising.com/
 local=/hotelaustralien.de/
 local=/hotelectronicshop.com/
@@ -9124,7 +9126,6 @@ local=/obozboots.com/
 local=/obroker.com/
 local=/ocayo.de/
 local=/occasionak.com/
-local=/occasionk.com/
 local=/ochsner-agrarhandel.com/
 local=/ocinboutique.de/
 local=/octa-trade.com/
@@ -9766,7 +9767,6 @@ local=/physicalg.com/
 local=/physicisti.com/
 local=/phytrix1.com/
 local=/pibok.de/
-local=/piccu.org/
 local=/picgoy.com/
 local=/pickario.de/
 local=/pickleballoffer.com/
@@ -10900,6 +10900,7 @@ local=/sbhholzhaus.com/
 local=/sbikeparts.com/
 local=/sblt.net/
 local=/scalaautopecas.com/
+local=/scandifurn.com/
 local=/scandinavanorth.shop/
 local=/scarpaschuhewien.at/
 local=/scarpejoya.com/
@@ -12376,6 +12377,7 @@ local=/thorogooddeutschland.de/
 local=/thorogoodfrance.com/
 local=/thorogoodfrance.fr/
 local=/three-shift.de/
+local=/thresholdi.com/
 local=/thrillsnew.com/
 local=/throughouty.com/
 local=/thrustmarkets.com/
@@ -13295,7 +13297,6 @@ local=/viva-markets.com/
 local=/vivabestvs.best/
 local=/vivagopro.com/
 local=/vivaiabuty.pl/
-local=/vivaiacollection.com/
 local=/vivaiaschuhe.at/
 local=/vivaiaschuhe.com/
 local=/vivaiaschuhe.de/

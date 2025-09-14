@@ -386,14 +386,6 @@ Newly registered domains (NRDs) are commonly used by threat actors for phishing,
              
 > [!NOTE]
 > To block NRDs from the last 14 days, combine the domain lists from 7 days ago and 14 days ago. For blocking NRDs from the last 21 days, combine lists from 7, 14, and 21 days ago. Etc.
-             
-The daily NRD raw data in plain domain format is stored in the [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) with filenames following the pattern `nrd_YYYY-MM-DD.txt`. Each file corresponds to a single day, and the last 35 days of data are available.     
-                       
-> [!TIP]
-> Daily NRDs can be used for advanced analyses, domain extraction based on specific patterns, or for generating custom NRD lists spanning defined time periods (e.g., 7, 14, 21, 28 or 35 days).              
->                             
-> The [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) includes a Bash script named `merge_nrds_days.sh` for compiling NRD lists over a specified number of days. For example, to generate a 7-day NRD list, use the command:                     
-> `merge_nrds_days.sh 7 /share /share/nrds-7-days.txt`
 
 ---
 

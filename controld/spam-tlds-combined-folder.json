@@ -6160,6 +6160,13 @@
       }
     },
     {
+      "PK": "vecchioamore.restaurant",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.vegas",
       "action": {
         "do": 0,

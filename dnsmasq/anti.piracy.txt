@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Sep 2025 08:13 UTC
-# Version: 2025.0913.0813.38
+# Last modified: 14 Sep 2025 09:16 UTC
+# Version: 2025.0914.0916.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11125
+# Number of entries: 11127
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -100,7 +100,6 @@ local=/123movies.watch/
 local=/123movies.website/
 local=/123movies.wine/
 local=/123movies.work/
-local=/123movies.yt/
 local=/123movies-apk.com/
 local=/123movies-to.org/
 local=/123movies4u.fun/
@@ -6041,6 +6040,7 @@ local=/moviemaya.com/
 local=/moviemela.live/
 local=/movieminions.cc/
 local=/movieninja.io/
+local=/movieninja.to/
 local=/movienoe.com/
 local=/movienyt.net/
 local=/movieorca.com/
@@ -6217,6 +6217,7 @@ local=/musicstream.cc/
 local=/mutaz.pro/
 local=/muxiv.com/
 local=/mvgroup.org/
+local=/mxlatinoamerica.com/
 local=/mxroom.com/
 local=/my-123movies.com/
 local=/my-cinema.net/
@@ -11065,6 +11066,7 @@ local=/zetracker.net/
 local=/zeus-net.pw/
 local=/zhibook.xyz/
 local=/zhongzishenqi.com/
+local=/tracker.zhuqiy.com/
 local=/tracker.zhuqiy.top/
 local=/zipcodeshop.com/
 local=/zipcomic.com/

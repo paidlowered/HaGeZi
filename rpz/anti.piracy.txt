@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757751180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757841360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 13 Sep 2025 08:13 UTC
-; Version: 2025.0913.0813.38
+; Last modified: 14 Sep 2025 09:16 UTC
+; Version: 2025.0914.0916.26
 ; Syntax: RPZ
-; Number of entries: 22250
+; Number of entries: 22254
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -5627,6 +5627,8 @@ musicsaz.com CNAME .
 *.musicsaz.com CNAME .
 muxiv.com CNAME .
 *.muxiv.com CNAME .
+mxlatinoamerica.com CNAME .
+*.mxlatinoamerica.com CNAME .
 mxroom.com CNAME .
 *.mxroom.com CNAME .
 my-123movies.com CNAME .
@@ -8057,6 +8059,8 @@ zerotracker.com CNAME .
 *.zerotracker.com CNAME .
 zhongzishenqi.com CNAME .
 *.zhongzishenqi.com CNAME .
+tracker.zhuqiy.com CNAME .
+*.tracker.zhuqiy.com CNAME .
 zipcodeshop.com CNAME .
 *.zipcodeshop.com CNAME .
 zipcomic.com CNAME .
@@ -19663,6 +19667,8 @@ movie4k.to CNAME .
 *.movie4k.to CNAME .
 moviegaga.to CNAME .
 *.moviegaga.to CNAME .
+movieninja.to CNAME .
+*.movieninja.to CNAME .
 movies132.to CNAME .
 *.movies132.to CNAME .
 movies7.to CNAME .
@@ -22205,8 +22211,6 @@ eurostreaming.yachts CNAME .
 *.eurostreaming.yachts CNAME .
 vegamovies.yoga CNAME .
 *.vegamovies.yoga CNAME .
-123movies.yt CNAME .
-*.123movies.yt CNAME .
 dood.yt CNAME .
 *.dood.yt CNAME .
 eztv.yt CNAME .

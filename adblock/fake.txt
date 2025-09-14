@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 13 Sep 2025 11:02 UTC
-! Version: 2025.0913.1102.15
+! Last modified: 14 Sep 2025 07:33 UTC
+! Version: 2025.0914.0733.40
 ! Syntax: AdBlock
-! Number of entries: 14055
+! Number of entries: 14056
 !
 ||01broker.com^
 ||01crypto.com^
@@ -3393,6 +3393,7 @@
 ||dressfat.com^
 ||drezia.com^
 ||drgillmaier.de^
+||drheimer.com^
 ||drift-store.com^
 ||drinkevolution.shop^
 ||drinkkunst.com^
@@ -3436,6 +3437,7 @@
 ||dualtronpower.shop^
 ||duavital.com^
 ||dubaifix.eu^
+||dubaihoteluae.com^
 ||ducherower.de^
 ||duft-blumen.de^
 ||duftbaum.store^
@@ -3935,7 +3937,6 @@
 ||officiellejordan.eu.com^
 ||eu-class.com^
 ||eu-first.com^
-||eu-meds.online^
 ||eu-sezane.com^
 ||eu-top-meds.com^
 ||eu-unityfahrschule.com^
@@ -6032,6 +6033,7 @@
 ||hot-shopping.com^
 ||hotchillies.shop^
 ||hotel-brand-promotion.com^
+||hotel-ds.com^
 ||hotel-marketing-advertising.com^
 ||hotelaustralien.de^
 ||hotelectronicshop.com^
@@ -9125,7 +9127,6 @@
 ||obroker.com^
 ||ocayo.de^
 ||occasionak.com^
-||occasionk.com^
 ||ochsner-agrarhandel.com^
 ||ocinboutique.de^
 ||octa-trade.com^
@@ -9767,7 +9768,6 @@
 ||physicisti.com^
 ||phytrix1.com^
 ||pibok.de^
-||piccu.org^
 ||picgoy.com^
 ||pickario.de^
 ||pickleballoffer.com^
@@ -10901,6 +10901,7 @@
 ||sbikeparts.com^
 ||sblt.net^
 ||scalaautopecas.com^
+||scandifurn.com^
 ||scandinavanorth.shop^
 ||scarpaschuhewien.at^
 ||scarpejoya.com^
@@ -12377,6 +12378,7 @@
 ||thorogoodfrance.com^
 ||thorogoodfrance.fr^
 ||three-shift.de^
+||thresholdi.com^
 ||thrillsnew.com^
 ||throughouty.com^
 ||thrustmarkets.com^
@@ -13296,7 +13298,6 @@
 ||vivabestvs.best^
 ||vivagopro.com^
 ||vivaiabuty.pl^
-||vivaiacollection.com^
 ||vivaiaschuhe.at^
 ||vivaiaschuhe.com^
 ||vivaiaschuhe.de^

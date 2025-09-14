@@ -1408,13 +1408,6 @@
       }
     },
     {
-      "PK": "geover-prod.do.dsp.mp.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ghochv3eng.trafficmanager.net",
       "action": {
         "do": 0,

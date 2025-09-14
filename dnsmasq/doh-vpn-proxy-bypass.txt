@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Sep 2025 12:38 UTC
-# Version: 2025.0913.1238.21
+# Last modified: 14 Sep 2025 09:26 UTC
+# Version: 2025.0914.0926.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4823
+# Number of entries: 4822
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1032,7 +1032,6 @@ local=/cybershield.cc/
 local=/cybersilent.com/
 local=/cyberssh.com/
 local=/dns.cybertonic.tech/
-local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/rammerhead.d-n-s.name/
 local=/dns.d365.in/
@@ -1339,6 +1338,7 @@ local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver2.dyndnsinternetguide.com/
 local=/adbox-v9.dynipv6.de/
+local=/gustamadh.dynv6.net/
 local=/sagamihara.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/
@@ -1379,7 +1379,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1532,6 +1531,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flashpull.com/
 local=/flashput.net/
@@ -2249,7 +2249,6 @@ local=/ram.kdot.cam/
 local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
-local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/kepard.com/
 local=/dns.kerekes.xyz/
@@ -2657,7 +2656,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/recap.class.nadiaplatform.com/
@@ -3819,6 +3817,7 @@ local=/browse.startpage.com/
 local=/eu-browse.startpage.com/
 local=/eu1-browse.startpage.com/
 local=/eu2-browse.startpage.com/
+local=/proxy2.startpage.com/
 local=/proxy3.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us1-browse.startpage.com/
